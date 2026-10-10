@@ -1,0 +1,8 @@
+target/
+tomcat.*/
+*.log
+.DS_Store
+*.class
+.idea/
+*.iml
+.vscode/
